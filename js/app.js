@@ -12,3 +12,4 @@ function button() {
   node.innerHTML = random
   list.appendChild(node);   
 }
+
