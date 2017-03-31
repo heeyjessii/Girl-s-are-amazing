@@ -1,6 +1,4 @@
 function button() {
-  alert("hi");
-  console.log("hi");
   var fortunesList = ['die', 'skip school', 'kick that ice under the fridge', 'late to class, might as well not even go school','spend all ur money', 'always overreact', 'make a scene'];
   /* all possible fortunes */
   var random = fortunesList[Math.floor(Math.random() * fortunesList.length)];
