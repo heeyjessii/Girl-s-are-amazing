@@ -31,6 +31,7 @@ header {
     margin-right: auto;
     margin-top: 10%;
   -webkit-animation: fadein 9s;
+    outline:none;
 }
 
 #kermitbutton {
